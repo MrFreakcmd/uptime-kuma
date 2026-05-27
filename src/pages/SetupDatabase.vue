@@ -2,7 +2,7 @@
     <div v-if="show" class="form-container">
         <form @submit.prevent="submit">
             <div>
-                <object width="64" height="64" data="/icon.svg" />
+                <img width="64" height="64" src="/Freak-Cloud-logo.png" />
                 <div style="font-size: 28px; font-weight: bold; margin-top: 5px">Uptime Kuma</div>
             </div>
 

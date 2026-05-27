@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-    <img src="./public/icon.svg" width="128" alt="Uptime Kuma Logo" />
+    <img src="./public/Freak-Cloud-logo.png" width="128" alt="Uptime Kuma Logo" />
 </div>
 
 # Uptime Kuma

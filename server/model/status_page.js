@@ -501,7 +501,7 @@ class StatusPage extends BeanModel {
      */
     getIcon() {
         if (!this.icon) {
-            return "/icon.svg";
+            return "/Freak-Cloud-logo.png";
         } else {
             return this.icon;
         }
